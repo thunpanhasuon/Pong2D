@@ -6,7 +6,7 @@ CXXFLAGS = -std=c++17 -Wall -Wextra -O2
 LIBS = -lraylib -lm -lpthread -ldl -lrt -lGL
 
 # Directories
-SRC_DIR = src
+SRC_DIR = rizzler_src
 BIN_DIR = bin
 
 # Files
